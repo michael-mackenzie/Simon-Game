@@ -12,7 +12,7 @@ This is one of the many projects included in "The Complete 2020 Web Development 
 
 ## Game Rules
 
-![Start Screen](../master/simon.gif)
+![Start Screen](../master/simon.GIF)
 
 1. Press any key to start.  Simon will give the first signal.  Repeat the signal by clicking the same color.
 
