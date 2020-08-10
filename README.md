@@ -12,6 +12,8 @@ This is one of the many projects included in "The Complete 2020 Web Development 
 
 ## Game Rules
 
+![Start Screen](simon.gif)
+
 1. Press any key to start.  Simon will give the first signal.  Repeat the signal by clicking the same color.
 
 2. Simon will duplicate the first signal and add one.  Repeat these two signals by pressing the same color lenses, in order.
@@ -20,17 +22,23 @@ This is one of the many projects included in "The Complete 2020 Web Development 
 
 4. Continue playing as long as you can repeat each sequence of signals correctly.
 
-## Contributing to The Simon Game
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to The Simon Game, follow these steps:
+## Installing and Using The Simon Game
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+To install The Simon Game, follow these steps:
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+1. Download project files
+
+2. Navigate to a command prompt/terminal window
+
+2. Change directory to the location of the project files
+```
+cd <project files location>
+```
+3. Open index.html in your preferred web browser
+```
+index.html
+```
+4. Have fun playing The Simon Game!
 
 ## Contact
 
